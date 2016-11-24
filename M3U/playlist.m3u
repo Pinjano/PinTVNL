@@ -1,0 +1,248 @@
+#EXTM3U
+#EXTINF:0,#EXTINF:-1,NL NPO1 HD
+http://ip.cs4ip.com:8000/live/raji/raji/720.ts
+#EXTINF:0,#EXTINF:-1,NL NPO2 HD
+http://ip.cs4ip.com:8000/live/raji/raji/721.ts
+#EXTINF:0,#EXTINF:-1,NL NPO3 HD
+http://ip.cs4ip.com:8000/live/raji/raji/722.ts
+#EXTINF:0,#EXTINF:-1,NL Nickelodeon
+http://ip.cs4ip.com:8000/live/raji/raji/731.ts
+#EXTINF:0,#EXTINF:-1,NL NGC HD
+http://ip.cs4ip.com:8000/live/raji/raji/745.ts
+#EXTINF:0,#EXTINF:-1,NL NET5 HD
+http://ip.cs4ip.com:8000/live/raji/raji/729.ts
+#EXTINF:0,#EXTINF:-1,NL MTV
+http://ip.cs4ip.com:8000/live/raji/raji/738.ts
+#EXTINF:0,#EXTINF:-1,NL HBO1 HD
+http://ip.cs4ip.com:8000/live/raji/raji/753.ts
+#EXTINF:0,#EXTINF:-1,NL HBO2 HD
+http://ip.cs4ip.com:8000/live/raji/raji/754.ts
+#EXTINF:0,#EXTINF:-1,NL HBO3 HD
+http://ip.cs4ip.com:8000/live/raji/raji/755.ts
+#EXTINF:0,#EXTINF:-1,NL Fox Sports 1
+http://ip.cs4ip.com:8000/live/raji/raji/762.ts
+#EXTINF:0,#EXTINF:-1,NL Fox Sports 2
+http://ip.cs4ip.com:8000/live/raji/raji/763.ts
+#EXTINF:0,#EXTINF:-1,NL Fox Sports 3
+http://ip.cs4ip.com:8000/live/raji/raji/764.ts
+#EXTINF:0,#EXTINF:-1,NL Fox Sports 4
+http://ip.cs4ip.com:8000/live/raji/raji/765.ts
+#EXTINF:0,#EXTINF:-1,NL Fox Sports 5
+http://ip.cs4ip.com:8000/live/raji/raji/766.ts
+#EXTINF:0,#EXTINF:-1,NL Fox
+http://ip.cs4ip.com:8000/live/raji/raji/741.ts
+#EXTINF:0,#EXTINF:-1,NL Film1 Sundance
+http://ip.cs4ip.com:8000/live/raji/raji/750.ts
+#EXTINF:0,#EXTINF:-1,NL Film1 Premiere HD
+http://ip.cs4ip.com:8000/live/raji/raji/749.ts
+#EXTINF:0,#EXTINF:-1,NL Film1 Comedy
+http://ip.cs4ip.com:8000/live/raji/raji/751.ts
+#EXTINF:0,#EXTINF:-1,NL Film1 Action
+http://ip.cs4ip.com:8000/live/raji/raji/752.ts
+#EXTINF:0,#EXTINF:-1,NL Eurosport HD
+http://ip.cs4ip.com:8000/live/raji/raji/742.ts
+#EXTINF:0,#EXTINF:-1,NL Disney Junior
+http://ip.cs4ip.com:8000/live/raji/raji/736.ts
+#EXTINF:0,#EXTINF:-1,NL Disney Channel
+http://ip.cs4ip.com:8000/live/raji/raji/735.ts
+#EXTINF:0,#EXTINF:-1,NL Discovery Investigation
+http://ip.cs4ip.com:8000/live/raji/raji/744.ts
+#EXTINF:0,#EXTINF:-1,NL Discovery
+http://ip.cs4ip.com:8000/live/raji/raji/743.ts
+#EXTINF:0,#EXTINF:-1,NL Comedy Central
+http://ip.cs4ip.com:8000/live/raji/raji/734.ts
+#EXTINF:0,#EXTINF:-1,NL Cartoon Network
+http://ip.cs4ip.com:8000/live/raji/raji/737.ts
+#EXTINF:0,#EXTINF:-1,NL Boomerang
+http://ip.cs4ip.com:8000/live/raji/raji/733.ts
+#EXTINF:0,#EXTINF:-1,NL 24Kitchen
+http://ip.cs4ip.com:8000/live/raji/raji/739.ts
+#EXTINF:0,#EXTINF:-1,NL 13th Street
+http://ip.cs4ip.com:8000/live/raji/raji/746.ts
+#EXTINF:0,#EXTINF:-1,NL SBS 9
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/277.ts
+#EXTINF:0,#EXTINF:-1,NL SBS 6
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/276.ts
+#EXTINF:0,#EXTINF:-1,NL RTL 8
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/275.ts
+#EXTINF:0,#EXTINF:-1,NL RTL 7
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/274.ts
+#EXTINF:0,#EXTINF:-1,NL RTL 5
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/266.ts
+#EXTINF:0,#EXTINF:-1,NL RTL 4
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/265.ts
+#EXTINF:0,#EXTINF:-1,NL NPO 3
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/264.ts
+#EXTINF:0,#EXTINF:-1,NL NPO 2
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/263.ts
+#EXTINF:0,#EXTINF:-1,NL NPO 1
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/262.ts
+#EXTINF:0,#EXTINF:-1,NL NET 5
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/273.ts
+#EXTINF:0,#EXTINF:-1,NL HBO 3
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/272.ts
+#EXTINF:0,#EXTINF:-1,NL HBO 2
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/271.ts
+#EXTINF:0,#EXTINF:-1,NL HBO 1
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/270.ts
+#EXTINF:0,#EXTINF:-1,NL FOX SPORTS 3
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/269.ts
+#EXTINF:0,#EXTINF:-1,NL FOX SPORTS 2
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/268.ts
+#EXTINF:0,#EXTINF:-1,NL FOX SPORTS 1 HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/267.ts
+#EXTINF:0,#EXTINF:-1,DK: TV3 Puls
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/1635.ts
+#EXTINF:0,#EXTINF:-1,DK: TV3
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/1630.ts
+#EXTINF:0,#EXTINF:-1,DK: TV2 Zulu
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/1631.ts
+#EXTINF:0,#EXTINF:-1,DK: TV2 News
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/1633.ts
+#EXTINF:0,#EXTINF:-1,DK: TV2 Fri
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/1632.ts
+#EXTINF:0,#EXTINF:-1,DK: Kanal TV5
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/1636.ts
+#EXTINF:0,#EXTINF:-1,DK: DK4
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/1629.ts
+#EXTINF:0,#EXTINF:-1,DK: DK1
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/1628.ts
+#EXTINF:0,#EXTINF:-1,DK: 3 Plus
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/1634.ts
+#EXTINF:0,#EXTINF:-1,DK : VIASAT FOTBOLL
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2978.ts
+#EXTINF:0,#EXTINF:-1,DK : VFILM PREMIER
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2979.ts
+#EXTINF:0,#EXTINF:-1,DK : VFILM FAMILY
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2980.ts
+#EXTINF:0,#EXTINF:-1,DK : VFILM ACTION
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2981.ts
+#EXTINF:0,#EXTINF:-1,DK : TV3 SPORT 2
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2970.ts
+#EXTINF:0,#EXTINF:-1,DK : TV3 SPORT 1
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2969.ts
+#EXTINF:0,#EXTINF:-1,DK : TV3 Puls
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2971.ts
+#EXTINF:0,#EXTINF:-1,DK : TV3 Denmark
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2972.ts
+#EXTINF:0,#EXTINF:-1,DK : TV2 NEWS
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2974.ts
+#EXTINF:0,#EXTINF:-1,DK : TV 3
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2977.ts
+#EXTINF:0,#EXTINF:-1,DK : KANAL 5
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2982.ts
+#EXTINF:0,#EXTINF:-1,DK : Kanal 4
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2983.ts
+#EXTINF:0,#EXTINF:-1,DK : DR 2
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2985.ts
+#EXTINF:0,#EXTINF:-1,DK : VIASAT SPORT
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3110.ts
+#EXTINF:0,#EXTINF:-1,DK : VIASAT SERIES
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3111.ts
+#EXTINF:0,#EXTINF:-1,DK : VIASAT NATURE
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3112.ts
+#EXTINF:0,#EXTINF:-1,DK : VIASAT MOTOR
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3113.ts
+#EXTINF:0,#EXTINF:-1,DK : VIASAT HOCKEY
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3114.ts
+#EXTINF:0,#EXTINF:-1,DK : VIASAT HISTORY
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3115.ts
+#EXTINF:0,#EXTINF:-1,DK : VIASAT GOLF
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3116.ts
+#EXTINF:0,#EXTINF:-1,DK : VIASAT FILM PREMIERE
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3117.ts
+#EXTINF:0,#EXTINF:-1,DK : VIASAT FILM HITS
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3118.ts
+#EXTINF:0,#EXTINF:-1,DK : VIASAT FILM FAMILY
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3119.ts
+#EXTINF:0,#EXTINF:-1,DK : VIASAT FILM COMEDY
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3120.ts
+#EXTINF:0,#EXTINF:-1,DK : VIASAT FILM ACTION
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3121.ts
+#EXTINF:0,#EXTINF:-1,DK : VIASAT EXPLORE
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3091.ts
+#EXTINF:0,#EXTINF:-1,DK : TV2 MIDT-VEST
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3092.ts
+#EXTINF:0,#EXTINF:-1,DK : TV NORGE
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3123.ts
+#EXTINF:0,#EXTINF:-1,DK : TV 6
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3124.ts
+#EXTINF:0,#EXTINF:-1,DK : TV 3 SPORT 2
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3093.ts
+#EXTINF:0,#EXTINF:-1,DK : TV 3 SPORT 1
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3094.ts
+#EXTINF:0,#EXTINF:-1,DK : TV 3 PULS
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3095.ts
+#EXTINF:0,#EXTINF:-1,DK : TV 2 ZULU
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3096.ts
+#EXTINF:0,#EXTINF:-1,DK : TV 2 ZEBRA
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3125.ts
+#EXTINF:0,#EXTINF:-1,DK : TV 2 SPORT
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3097.ts
+#EXTINF:0,#EXTINF:-1,DK : TV 2 OST
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3098.ts
+#EXTINF:0,#EXTINF:-1,DK : TV 2 NORGE
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3126.ts
+#EXTINF:0,#EXTINF:-1,DK : TV 2 NORD
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3099.ts
+#EXTINF:0,#EXTINF:-1,DK : TV 2 NEWS
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3100.ts
+#EXTINF:0,#EXTINF:-1,DK : TV 2 LORRY
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3101.ts
+#EXTINF:0,#EXTINF:-1,DK : TV 2 FRI
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3102.ts
+#EXTINF:0,#EXTINF:-1,DK : TV 2 CHARLIE
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3103.ts
+#EXTINF:0,#EXTINF:-1,DK : NRK 1
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3128.ts
+#EXTINF:0,#EXTINF:-1,DK : MAT
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3129.ts
+#EXTINF:0,#EXTINF:-1,DK : KANAL 9
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3104.ts
+#EXTINF:0,#EXTINF:-1,DK : DR ULTRA
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3105.ts
+#EXTINF:0,#EXTINF:-1,DK : DR RAMASJANG
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3106.ts
+#EXTINF:0,#EXTINF:-1,DK : DR K
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3107.ts
+#EXTINF:0,#EXTINF:-1,DK : DK 4
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3108.ts
+#EXTINF:0,#EXTINF:-1,DK : DISNEY CHANNEL
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3109.ts
+#EXTINF:0,#EXTINF:-1,DK : DISCOVERY CHANNEL HD
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3130.ts
+#EXTINF:0,#EXTINF:-1,SC : COMEDY CENTRAL
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3131.ts
+#EXTINF:0,#EXTINF:-1,DK : CARTOON NETWORK
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3132.ts
+#EXTINF:0,#EXTINF:-1,DK : ANIMAL PLANET HD
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/3133.ts
+#EXTINF:0,#EXTINF:-1,DK : DR 1
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2984.ts
+#EXTINF:0,#EXTINF:-1,DK : Disney XD
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2986.ts
+#EXTINF:0,#EXTINF:-1,DK : Disney Channel (D)
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2987.ts
+#EXTINF:0,#EXTINF:-1,DK : C More Sport
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2989.ts
+#EXTINF:0,#EXTINF:-1,DK : C More Live
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2990.ts
+#EXTINF:0,#EXTINF:-1,DK : C More Fotboll
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2991.ts
+#EXTINF:0,#EXTINF:-1,DK : C More Extreme
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2992.ts
+#EXTINF:0,#EXTINF:-1,DK : 6 Eren
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2973.ts
+#EXTINF:0,#EXTINF:-1,DK :  Nat Geo
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2997.ts
+#EXTINF:0,#EXTINF:-1,DK :  CANAL 9 DK
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2994.ts
+#EXTINF:0,#EXTINF:-1,DK :  C MORE SERIES
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2995.ts
+#EXTINF:0,#EXTINF:-1,DK :  C MORE HITS
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2996.ts
+#EXTINF:0,#EXTINF:-1,DK :  C More First
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2988.ts
+#EXTINF:0,#EXTINF:-1,DK :  C More Emotion
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2993.ts
+#EXTINF:0,
